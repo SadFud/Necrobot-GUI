@@ -1,0 +1,13 @@
+c:\users\david\documents\visual studio 2015\Projects\Necrobot Config GUI\Necrobot Config GUI\bin\Debug\Necrobot Config GUI.exe.config
+c:\users\david\documents\visual studio 2015\Projects\Necrobot Config GUI\Necrobot Config GUI\bin\Debug\Necrobot Config GUI.exe
+c:\users\david\documents\visual studio 2015\Projects\Necrobot Config GUI\Necrobot Config GUI\bin\Debug\Necrobot Config GUI.pdb
+c:\users\david\documents\visual studio 2015\Projects\Necrobot Config GUI\Necrobot Config GUI\bin\Debug\Necrobot Config GUI.xml
+c:\users\david\documents\visual studio 2015\Projects\Necrobot Config GUI\Necrobot Config GUI\obj\Debug\Necrobot_Config_GUI.Resources.resources
+c:\users\david\documents\visual studio 2015\Projects\Necrobot Config GUI\Necrobot Config GUI\obj\Debug\Necrobot Config GUI.vbproj.GenerateResource.Cache
+c:\users\david\documents\visual studio 2015\Projects\Necrobot Config GUI\Necrobot Config GUI\obj\Debug\Necrobot Config GUI.exe
+c:\users\david\documents\visual studio 2015\Projects\Necrobot Config GUI\Necrobot Config GUI\obj\Debug\Necrobot Config GUI.xml
+c:\users\david\documents\visual studio 2015\Projects\Necrobot Config GUI\Necrobot Config GUI\obj\Debug\Necrobot Config GUI.pdb
+c:\users\david\documents\visual studio 2015\Projects\Necrobot Config GUI\Necrobot Config GUI\obj\Debug\Necrobot_Config_GUI.Credits.resources
+c:\users\david\documents\visual studio 2015\Projects\Necrobot Config GUI\Necrobot Config GUI\obj\Debug\Necrobot_Config_GUI.Splash.resources
+c:\users\david\documents\visual studio 2015\Projects\Necrobot Config GUI\Necrobot Config GUI\obj\Debug\Necrobot_Config_GUI.Auth.resources
+c:\users\david\documents\visual studio 2015\Projects\Necrobot Config GUI\Necrobot Config GUI\obj\Debug\Necrobot_Config_GUI.Config.resources
